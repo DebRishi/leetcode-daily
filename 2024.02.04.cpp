@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 #define MAX_SIZE 128
 

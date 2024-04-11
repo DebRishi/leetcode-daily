@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 // LEETCODE 2108 - Find First Palindromic String in the Array
